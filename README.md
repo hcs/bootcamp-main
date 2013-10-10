@@ -10,6 +10,7 @@ Contact us! board [at] hcs.harvard.edu.
 
 1. [Bootcamp Setup](https://github.com/hcs/bootcamp-setup/) and [associated slides](http://goo.gl/jk45W1), September 16, 2013
 2. [Intro to UNIX](https://github.com/hcs/bootcamp-unix/) and [associated slides](http://goo.gl/5NJyWw), September 25, 2013
+3. [Intro to UNIX, Part 2: Shell Scripts](https://github.com/hcs/bootcamp-unix/wiki/Shell-scripts) and [associated slides](http://goo.gl/kRpD4y), October 9, 2013
 
 
 ## Spring 2013
