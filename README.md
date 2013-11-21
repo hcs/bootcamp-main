@@ -14,7 +14,7 @@ Contact us! board [at] hcs.harvard.edu.
 4. [Git](https://github.com/hcs/bootcamp-git) and [associated slides](http://goo.gl/siE4CQ), October 23, 2013
 5. HCS Systems and Projects, [slides](http://goo.gl/NPuXiq), October 30, 2013
 6. [Intro to Python](https://github.com/hcs/bootcamp-python/wiki) and [associated slides](http://goo.gl/9ID3ad), November 6, 2013
-
+7. [Systems II, Using RT](http://goo.gl/yvMkgi), November 13, 2013
 
 ## Spring 2013
 
